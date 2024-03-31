@@ -1,0 +1,72 @@
+{
+    "readResults": [
+        {
+            "page": 1,
+            "width": 8.2639,
+            "height": 11.6806,
+            "unit": "inch",
+            "lines": [
+                {
+                    "text": "¥2,371,941",
+                    "fontSize": 14,
+                    "fontFamily": "HeiseiKakuGo-W5",
+                    "boundingBox": [
+                        7.0734,
+                        2.2302,
+                        8.1288,
+                        2.2302,
+                        8.1288,
+                        2.4236,
+                        7.0734,
+                        2.4236
+                    ]
+                },
+                {
+                    "text": "部門別更新PC",
+                    "fontSize": 12,
+                    "fontFamily": "HeiseiKakuGo-W5",
+                    "boundingBox": [
+                        5.5417,
+                        2.8844,
+                        6.4478,
+                        2.8844,
+                        6.4478,
+                        3.0236,
+                        5.5417,
+                        3.0236
+                    ]
+                },
+                {
+                    "text": "全19台",
+                    "fontSize": 12,
+                    "fontFamily": "HeiseiKakuGo-W5",
+                    "boundingBox": [
+                        5.5423,
+                        3.1983,
+                        5.9796,
+                        3.1983,
+                        5.9796,
+                        3.335,
+                        5.5423,
+                        3.335
+                    ]
+                },
+                {
+                    "text": "624,195",
+                    "fontSize": 12,
+                    "fontFamily": "HeiseiKakuGo-W5",
+                    "boundingBox": [
+                        6.8789,
+                        4.5207,
+                        7.5336,
+                        4.5207,
+                        7.5336,
+                        4.6891,
+                        6.8789,
+                        4.6891
+                    ]
+                }
+            ]
+        }
+    ]
+}
